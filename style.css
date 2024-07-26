@@ -1,0 +1,30 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+.bigmario{
+    height: 50%;
+    width: 100%;
+}
+
+h4{
+    background-color: rgb(217, 232, 245);
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width:90%
+}
+.jump{
+    width:45%;
+    display:inline-block
+}
